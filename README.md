@@ -27,6 +27,9 @@ For instance:
 
 ## Link
 
+This tutorial is listed at :
+http://www.takobear.tw/12/post/2014/01/ios1.html
+
 If you have any further problem, try to contact with 
 
 takobearx@gmail.com or
